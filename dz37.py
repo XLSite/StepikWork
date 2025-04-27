@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-from dz36 import list_item
 
 url = 'https://parsinger.ru/html/index1_page_1.html'
 
